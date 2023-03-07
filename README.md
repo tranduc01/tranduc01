@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tranduc01&label=Profile%20views&color=0e75b6&style=flat" alt="tranduc01" /> </p>
 
-
 - 🌱 I’m currently learning **Flutter, ASP .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tranduc01](https://github.com/tranduc01)
